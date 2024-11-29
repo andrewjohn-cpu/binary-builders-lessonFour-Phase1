@@ -1,0 +1,25 @@
+Array-[]:
+splice() - add/removes elements in array(indexing matters)
+pop() - remove element at the of an Array
+push() - adds element at the 
+shift()
+destructive - original/pristine directly i.e shift(), unshift(), pop(), splice()
+and 
+non-destructive - original not interfered with. i.e slice()
+
+objects: {}, 
+-key/value pair, 
+-keys are implicitly changed to string type "", 
+-access items: dot.notation(<object_name>.<key_name>), bracket notation(<object_name>["<key_name"])
+-add item into object: dot.notation(<object_name>.<key_name> = "<new_value>", bracket notation(<object_name>[<key_name>] = "value"))
+-loops, for...in, for...of, .forEach(), while loop, traditional for(initializer; condition; increment/decrement){}
+-for...in - this loop is used to capture the keys and indexes.
+-for...of - this loop is used to capture the value
+
+- functions - function <function_name>(){}
+-anonymous functions - a function that does not have a name pegged to it.
+-callback functions - 
+-arrow functions - 
+-immediately invoked function expression - 
+- function expression - 
+- lexical scoping/closures
